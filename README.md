@@ -1,5 +1,5 @@
-# About me 
-- 👋 Hi, I’m @AnoopKunju
+# About me <img src="3WGL.gif"  height="40">
+- 👋 Hi, I’m Anoop
 - 👀 I’m interested in Data Science, Analytics and cloud computing
 - 🌱 I’m currently learning Analytics using R
 - 💞️ I’m looking to collaborate on ML and Analytics projects
