@@ -3,7 +3,7 @@
 - 👀 I’m interested in Data Science, Analytics and cloud computing
 - 🌱 I’m currently learning Analytics using R
 - 💞️ I’m looking to collaborate on ML and Analytics projects
-- 📫 How to reach me anoopkunju@gmial.com
+- 📫 How to reach me anoopkunju@gmail.com
 - :computer: [Website](http://anoopscariah.me/)
 - :necktie: [LinkedIn](https://www.linkedin.com/in/anoop-scariah/)
 
