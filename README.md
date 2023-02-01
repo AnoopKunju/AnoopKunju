@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning Analytics using R
 - 💞️ I’m looking to collaborate on ML and Analytics projects
 - 📫 How to reach me anoopkunju@gmail.com
-- :computer: [Website](http://anoopscariah.me/)
 - :necktie: [LinkedIn](https://www.linkedin.com/in/anoop-scariah/)
 
 
